@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Some information about you!
+Long time listener, first time caller. 
 
 ### More Information
 
@@ -11,4 +11,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dboulineau@gmail.com](mailto:dboulineau@gmail.com)
