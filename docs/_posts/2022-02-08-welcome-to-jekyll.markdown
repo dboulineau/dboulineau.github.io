@@ -15,6 +15,7 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
+# Python
 def print_hi(name)
   puts "Hi, #{name}"
 end
@@ -23,9 +24,10 @@ print_hi('Tom')
 {% endhighlight %}
 
 {% highlight perl %}
+# Perl
 sub print_hi($) {
     my $name = shift;
-  print "Hi, $name\n";
+    print "Hi, $name\n";
 }
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
