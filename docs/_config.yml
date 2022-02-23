@@ -31,7 +31,7 @@ github_username:  dboulineau
 instagram_username: davecantwait
 
 # Build settings
-theme: minimist
+theme: minima
 plugins:
   - jekyll-feed
 
