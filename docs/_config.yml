@@ -30,7 +30,7 @@ twitter_username: the1bunk
 github_username:  dboulineau
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
